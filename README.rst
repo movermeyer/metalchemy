@@ -5,7 +5,7 @@ The ``metalchemy`` package provides helpers for your SQLAlchemy models to add dy
 
 .. image:: https://api.travis-ci.org/paylogic/metalchemy.png
    :target: https://travis-ci.org/paylogic/metalchemy
-.. image:: https://pypip.in/v/metalchemy/badge.png
+.. image:: https://img.shields.io/pypi/v/metalchemy.svg
    :target: https://crate.io/packages/metalchemy/
 .. image:: https://coveralls.io/repos/paylogic/metalchemy/badge.png?branch=master
    :target: https://coveralls.io/r/paylogic/metalchemy
